@@ -1,5 +1,7 @@
 # 🐾 Cat House
 
+---
+
 ## 🇬🇧 English Description
 
 **Cat House** is a small educational project created to learn and practice the **CSS Grid** layout system.  
