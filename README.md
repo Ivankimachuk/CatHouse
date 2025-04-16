@@ -1,7 +1,5 @@
 # 🐾 Cat House
 
-![Cat House Logo](./ec5a6039-ee29-4e03-bf87-f8e556137f60.svg)
-
 ## 🇬🇧 English Description
 
 **Cat House** is a small educational project created to learn and practice the **CSS Grid** layout system.  
@@ -21,10 +19,6 @@ It helped me improve my understanding of grid-based design and layout management
 - HTML5
 - CSS3
 - CSS Grid
-
-### 📸 Preview
-
-![Project Screenshot](./d0062edd-b599-4c8b-bf06-c29b733065ca.png)
 
 ---
 
@@ -47,17 +41,7 @@ It helped me improve my understanding of grid-based design and layout management
 - HTML5
 - CSS3
 - CSS Grid
-
-### 📸 Знімок сторінки
-
-![Скріншот проєкту](./d0062edd-b599-4c8b-bf06-c29b733065ca.png)
-
----
-
-## 👨‍💻 Author
-
-Іван | [GitHub Profile](https://github.com/твій_нік)
-
+- 
 ---
 
 ## 📚 License
